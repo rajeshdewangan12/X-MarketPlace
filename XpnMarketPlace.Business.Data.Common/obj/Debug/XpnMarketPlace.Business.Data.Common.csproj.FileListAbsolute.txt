@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Data.Common\bin\Debug\XpnMarketPlace.Business.Data.Common.dll.config
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Data.Common\bin\Debug\XpnMarketPlace.Business.Data.Common.dll
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Data.Common\bin\Debug\XpnMarketPlace.Business.Data.Common.pdb
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Data.Common\bin\Debug\EntityFramework.dll
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Data.Common\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Data.Common\bin\Debug\LinqKit.dll
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Data.Common\bin\Debug\XpnMarketPlace.Business.Common.dll
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Data.Common\bin\Debug\XpnMarketPlace.Business.Common.pdb
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Data.Common\bin\Debug\EntityFramework.xml
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Data.Common\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Data.Common\bin\Debug\LinqKit.xml
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Data.Common\obj\Debug\XpnMarketPlace.Business.Data.Common.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Data.Common\obj\Debug\XpnMarketPlace.Business.Data.Common.dll
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Data.Common\obj\Debug\XpnMarketPlace.Business.Data.Common.pdb

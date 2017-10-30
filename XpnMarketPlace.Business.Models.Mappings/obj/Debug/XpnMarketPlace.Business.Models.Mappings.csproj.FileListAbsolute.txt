@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models.Mappings\bin\Debug\XpnMarketPlace.Business.Models.Mappings.dll.config
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models.Mappings\bin\Debug\XpnMarketPlace.Business.Models.Mappings.dll
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models.Mappings\bin\Debug\XpnMarketPlace.Business.Models.Mappings.pdb
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models.Mappings\bin\Debug\EntityFramework.dll
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models.Mappings\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models.Mappings\bin\Debug\XpnMarketPlace.Business.Common.dll
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models.Mappings\bin\Debug\XpnMarketPlace.Business.Models.dll
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models.Mappings\bin\Debug\XpnMarketPlace.Business.Common.pdb
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models.Mappings\bin\Debug\XpnMarketPlace.Business.Models.pdb
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models.Mappings\bin\Debug\EntityFramework.xml
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models.Mappings\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models.Mappings\obj\Debug\XpnMarketPlace.Business.Models.Mappings.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models.Mappings\obj\Debug\XpnMarketPlace.Business.Models.Mappings.dll
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models.Mappings\obj\Debug\XpnMarketPlace.Business.Models.Mappings.pdb

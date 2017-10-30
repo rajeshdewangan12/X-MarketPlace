@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models\bin\Debug\XpnMarketPlace.Business.Models.dll.config
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models\bin\Debug\XpnMarketPlace.Business.Models.dll
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models\bin\Debug\XpnMarketPlace.Business.Models.pdb
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models\bin\Debug\XpnMarketPlace.Business.Common.dll
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models\bin\Debug\XpnMarketPlace.Business.Common.pdb
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models\obj\Debug\XpnMarketPlace.Business.Models.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models\obj\Debug\XpnMarketPlace.Business.Models.dll
+c:\users\admin\documents\visual studio 2012\Projects\XpnMarketPlace\XpnMarketPlace.Business.Models\obj\Debug\XpnMarketPlace.Business.Models.pdb
