@@ -7,6 +7,7 @@ namespace XpnMarketPlace.Business.Data.Dashboard
     {
         protected override void AppendModelCreating(DbModelBuilder modelBuilder)
         {
+
         }
     }
 }
